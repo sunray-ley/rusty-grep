@@ -1,2 +1,2 @@
 # rusty-grep
-RustyGREP
+RustyGrep
