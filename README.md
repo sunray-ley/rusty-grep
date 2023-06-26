@@ -27,7 +27,7 @@ To use RustyGrep, you must have Rust installed on your system. You can download 
 Once Rust is installed, you can install RustyGrep using Cargo, Rust's package manager:
 
 ```
-cargo install rustygrep
+cargo install rusty-grep
 ```
 
 ## Usage
@@ -35,7 +35,7 @@ cargo install rustygrep
 The basic syntax for RustyGrep is:
 
 ```
-rustygrep [options] pattern [file ...]
+rusty-grep [options] pattern [file ...]
 ```
 
 Here are some examples:
@@ -43,25 +43,25 @@ Here are some examples:
 Search for the word "hello" in a single file:
 
 ```
-rustygrep hello file.txt
+rusty-grep hello file.txt
 ```
 
 Search for the word "world" in all `.txt` files in the current directory, displaying line numbers for matching lines:
 
 ```
-rustygrep -n world *.txt
+rusty-grep -n world *.txt
 ```
 
 Search for the word "foo" in all `.rs` files in the `src` directory and its subdirectories, displaying two lines of context around each matching line:
 
 ```
-rustygrep -C 2 foo src/**/*.rs
+rusty-grep -C 2 foo src/**/*.rs
 ```
 
 For more information about RustyGrep's options and usage, please refer to the built-in help:
 
 ```
-rustygrep --help
+rusty-grep --help
 ```
 
 ## Contributing
