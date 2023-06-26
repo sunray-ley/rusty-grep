@@ -7,11 +7,17 @@ RustyGrep is a command-line tool written in Rust that allows users to search for
 RustyGrep offers the following features:
 
 - Search for patterns in one or multiple files
+
 - Search recursively through directories and subdirectories
+
 - Case-sensitive or case-insensitive searching
+
 - Display line numbers for matching lines
+
 - Display context around matching lines
+
 - Support for regular expressions
+
 - Fast and efficient searching, thanks to Rust's performance and memory safety guarantees
 
 ## Installation
