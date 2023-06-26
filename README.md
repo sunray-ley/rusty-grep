@@ -64,14 +64,10 @@ For more information about RustyGrep's options and usage, please refer to the bu
 rustygrep --help
 ```
 
-## License
-
-RustyGrep is open source software released under the MIT License. See the `LICENSE` file for details.
-
 ## Contributing
 
-Contributions are welcome! If you have a bug fix, feature request, or other improvement, please submit a pull request or open an issue on GitHub: https://github.com/yourusername/rustygrep
+Contributions to Craterfinder are welcome! If you have any suggestions or questions, please open an issue or pull request on GitHub.
 
-## Acknowledgments
+## License
 
-RustyGrep was inspired by the classic Unix `grep` command and built using the Rust programming language and its ecosystem of tools and libraries. Thank you to the Rust community for creating such a fantastic language!
+Craterfinder is distributed under the MIT License. Please refer to the [LICENSE](https://github.com/sunray-ley/craterfinder/blob/main/LICENSE) file for more information.
