@@ -66,8 +66,8 @@ rusty-grep --help
 
 ## Contributing
 
-Contributions to Craterfinder are welcome! If you have any suggestions or questions, please open an issue or pull request on GitHub.
+Contributions to RustyGrep are welcome! If you have any suggestions or questions, please open an issue or pull request on GitHub.
 
 ## License
 
-Craterfinder is distributed under the MIT License. Please refer to the [LICENSE](https://github.com/sunray-ley/craterfinder/blob/main/LICENSE) file for more information.
+RustyGrep is distributed under the MIT License. Please refer to the [LICENSE](https://github.com/sunray-ley/rusty-grep/blob/main/LICENSE) file for more information.
