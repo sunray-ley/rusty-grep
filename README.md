@@ -32,6 +32,8 @@ cargo install rusty-grep
 
 ## Usage
 
+**NOTICE: RustyGrep is still under active development and will soon be available.**
+
 The basic syntax for RustyGrep is:
 
 ```
