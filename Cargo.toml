@@ -1,0 +1,11 @@
+[package]
+name = "rusty-grep"
+version = "0.1.0"
+edition = "2021"
+description = "RustyGrep is a command-line tool written in Rust that allows users to search for patterns in files"
+license = "MIT"
+documentation = "https://docs.rs/rusty-grep"
+repository = "https://github.com/sunray-ley/rusty-grep"
+
+[dependencies]
+ferris-says = "0.2"
