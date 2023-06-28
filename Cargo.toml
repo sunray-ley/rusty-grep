@@ -8,4 +8,3 @@ documentation = "https://docs.rs/rusty-grep"
 repository = "https://github.com/sunray-ley/rusty-grep"
 
 [dependencies]
-ferris-says = "0.2"
